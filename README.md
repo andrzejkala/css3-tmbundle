@@ -9,4 +9,5 @@ What's already available
 Not much :-)
 
 - Gradients: Firefox, Safari, Chrome, Internet Explorer (no stops)
-  
+  - `gradx`+`tab` - Horizontal Gradient
+  - `grady`+`tab` - Vertical Gradient
