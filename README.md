@@ -1,3 +1,4 @@
+
 My Experimental CSS3 TextMate bundle
 ====================================
 
@@ -11,3 +12,16 @@ Not much :-)
 - Gradients: Firefox, Safari, Chrome, Internet Explorer (no stops)
   - `gradx`+`tab` - Horizontal Gradient
   - `grady`+`tab` - Vertical Gradient
+
+Installing
+----------
+
+    cd ~/Library/Application\ Support/TextMate/Bundles
+
+Clone the repo
+
+    git clone git://github.com/oskarkrawczyk/css3-tmbundle.git CSS3.tmbundle
+
+Reload Bundles
+
+    osascript -e 'tell app "TextMate" to reload bundles'
