@@ -4,6 +4,17 @@
 <dict>
 	<key>name</key>
 	<string>CSS3</string>
+	<key>ordering</key>
+	<array>
+		<string>B65507D0-EBAD-41A6-BD91-96514ABC3F34</string>
+		<string>A36BD437-FA8F-4347-8334-9DB3FAA1B59E</string>
+		<string>9DE8A436-F377-467A-A3E6-67C11A6E0677</string>
+		<string>5F230FB5-C34C-4852-8844-9FD8B6022A27</string>
+		<string>10D5BE2F-28EF-4170-AAB0-62F16787BC12</string>
+		<string>A31877AE-55D7-44EF-B27E-DAF7B280CA00</string>
+		<string>AD1D5749-C035-4C1E-B9F1-6732901AAC1E</string>
+		<string>E477549E-092C-4645-8D87-71A8A28F97CC</string>
+	</array>
 	<key>uuid</key>
 	<string>91299B2D-8519-48D6-9E50-B4B42B4EDED2</string>
 </dict>
