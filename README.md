@@ -1,9 +1,7 @@
 
 Personal CSS3 TextMate bundle
 ====================================
-This bundle was cloned from Oskar Krawczyk (http://nouincolor.com).
-
-I removed the gradient prefixes for IE (whenever you use ms-filter God kills a platypus) and added some new properties that I use on daily basis, which are described below.
+Simple CSS3 Bundle that includes some of the basic CSS3 properties I use on daily basis.
 
 What's already available
 ------------------------
