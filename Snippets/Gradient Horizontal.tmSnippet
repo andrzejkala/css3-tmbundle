@@ -4,9 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>background: -moz-linear-gradient(left, ${1:hex_from}, ${2:hex_to});
-background: -webkit-gradient(linear, left top, right top, from(${1}), to(${2}));
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='${1}', endColorstr='${2}', GradientType=1);
--ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='${1}', endColorstr='${2}', GradientType=1)";</string>
+background: -webkit-gradient(linear, left top, right top, from(${1}), to(${2}));</string>
 	<key>name</key>
 	<string>Gradient Horizontal</string>
 	<key>scope</key>
