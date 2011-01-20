@@ -1,17 +1,27 @@
 
-My Experimental CSS3 TextMate bundle
+Personal CSS3 TextMate bundle
 ====================================
+This bundle was cloned from Oskar Krawczyk (http://nouincolor.com).
 
-CSS3.tmbundle is a set of CSS3 properties that are either prefixed with vendor strings or use browser-specific properties to achieve a similar effect (ie. `filter` on IE).
+I removed the gradient prefixes for IE (whenever you use ms-filter God kills a platypus) and added some new properties that I use on daily basis, which are described below.
 
 What's already available
 ------------------------
 
-Not much :-)
-
-- **Gradients**: Firefox, Safari, Chrome, Internet Explorer (no stops)
+- **Gradients**: Firefox, Safari, Chrome
   - `gradx`+`tab` - Horizontal Gradient
   - `grady`+`tab` - Vertical Gradient
+ 
+- **Box Shadow**: Firefox, Safari, Chrome, Opera
+  - `bs` + `tab`
+  
+- **Border radius**: Firefox, Safari, Chrome, Opera
+  - `br-full` + `tab` - Full border radius declaration, separate for every corner.
+  - `br-simple` + `tab` - Simplified declaration - one value used for every corner.
+  - `br-tl` + `tab` - Border radius for top-left corner.
+  - `br-tr` + `tab` - Border radius for top-right corner.
+  - `br-br` + `tab` - Border radius for bottom-right corner;
+  - `br-bl` + `tab` - Border radius for bottom-left corner;  
 
 Installing
 ----------
@@ -20,7 +30,7 @@ Installing
 
 Clone the repo
 
-    git clone git://github.com/oskarkrawczyk/css3-tmbundle.git CSS3.tmbundle
+    git clone git://github.com/andrzejkala/css3-tmbundle.git CSS3.tmbundle
 
 Reload Bundles
 
